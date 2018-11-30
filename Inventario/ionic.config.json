@@ -1,0 +1,7 @@
+{
+  "name": "Inventario",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
